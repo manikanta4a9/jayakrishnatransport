@@ -1,8 +1,10 @@
 .logo {
-  max-height: 60px;
-  vertical-align: middle;
+  height: 50px;
+  width: auto;
   margin-right: 15px;
+  vertical-align: middle;
 }
+
 header {
   background-color: #003366;
   color: white;
