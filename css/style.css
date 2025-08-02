@@ -9674,7 +9674,7 @@ p,
 }
 
 .testimonial-carousel .owl-item {
-  opacity: .2;
+  opacity: 1;
 }
 
 .testimonial-carousel .owl-item.center {
